@@ -1,7 +1,7 @@
 # Journals for hadron theory
 
-Sometimes, it is hard to choose a journal in which we submit our manuscript.
-In the following, we want to make some list about the relevant journals for your reference.
+Sometimes, it is hard to choose a journal in which we submit our manuscript.\linebreak
+So, we want to make some list about the relevant journals for your reference.
 
 ## Review Journal
 1. Review of Modern Physics
