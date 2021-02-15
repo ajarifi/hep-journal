@@ -32,3 +32,6 @@ World Scientific
 
 Polish Academy of Arts and Sciences
 1. Acta Physica Pol B
+
+MPDI
+1. Symmetry
