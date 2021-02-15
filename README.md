@@ -1,4 +1,4 @@
-# hadron-theory-journal
+# Journal for hadron theory
 
 1. Physical Review Letter
 2. Review of Modern Physics
