@@ -23,3 +23,12 @@ Institute of Physics (IOP)
 1. Journal of Physics G
 2. Chinese Physics Letters
 3. Chinese Physics C
+
+Japanese Physical Society (JPS)
+1. Progress of Theoretical and Experimental Physics
+
+World Scientific
+1. International Journal of Modern Physics A
+
+Polish Academy of Arts and Sciences
+1. Acta Physica Pol B
