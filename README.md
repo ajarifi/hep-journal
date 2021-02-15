@@ -3,7 +3,7 @@
 Sometimes, it is not easy to decide in which journal we need to submit our manuscript.
 So, we want to make some lists about the relevant journals for your reference. Hopefully it will be useful for you.
 
-## Review Journal
+## Review
 1. Review of Modern Physics
    (Q1)
 2. Progress in Particle and Nuclear Physics
