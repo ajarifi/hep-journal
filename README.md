@@ -19,3 +19,7 @@ Springer
 3. The European Physical Journal C
 4. Few-Body Systems
 
+Institute of Physics (IOP)
+Journal of Physics G: Nuclear and Particle Physics
+Chinese Physics Letters
+Chinese Physics C
