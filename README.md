@@ -5,6 +5,7 @@ So, we want to make some lists about the relevant journals for your reference. H
 
 ## Review Journal
 1. Review of Modern Physics
+   (Q1)
 2. Progress in Particle and Nuclear Physics
 3. Journal of Physics G
 4. Physics Reports
