@@ -20,6 +20,6 @@ Springer
 4. Few-Body Systems
 
 Institute of Physics (IOP)
-Journal of Physics G: Nuclear and Particle Physics
-Chinese Physics Letters
-Chinese Physics C
+1. Journal of Physics G
+2. Chinese Physics Letters
+3. Chinese Physics C
