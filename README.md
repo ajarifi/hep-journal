@@ -2,7 +2,7 @@
 
 
 ## Review Journal
-1. Review of Modern Physics                             (IF: 40)
+1. Review of Modern Physics
 2. Progress in Particle and Nuclear Physics
 3. Journal of Physics G
 4. Physics Reports
