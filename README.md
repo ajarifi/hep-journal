@@ -1,23 +1,29 @@
 # Journal for hadron theory
 
+
+## Review Journal
+1. Review of Modern Physics
+2. Progress in Particle and Nuclear Physics
+3. Journal of Physics G
+4. Physics Reports
+
+## Letter
 1. Physical Review Letter
-2. Review of Modern Physics
-3. Physical Review C
-4. Physical Review D
-5. Physics Reports
-6. Progress in Particle and Nuclear Physics
-7. Physics Letters B
-8. Nuclear Physics A 
-9. Nuclear Physics B 
-10. Journal of High Energy Physics
-11. The European Physical Journal A
-12. The European Physical Journal C
-13. Few-Body Systems
-14. Journal of Physics G
-15. Chinese Physics Letters
-16. Chinese Physics C
-17. Progress of Theoretical and Experimental Physics
-18. International Journal of Modern Physics A
-19. Acta Physica Pol B
-20. Symmetry
-21. Science
+2. Physics Letter B
+3. Chinese Physics Letters
+
+## Regular Article
+1. Physical Review C
+2. Physical Review D
+3. Nuclear Physics A 
+4. Nuclear Physics B 
+5. Journal of High Energy Physics
+6. The European Physical Journal A
+7. The European Physical Journal C
+8. Science
+9. Chinese Physics C
+10. Progress of Theoretical and Experimental Physics
+11. International Journal of Modern Physics A
+12. Acta Physica Pol B
+13. Symmetry
+14. Few-Body Systems
