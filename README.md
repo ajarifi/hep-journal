@@ -1,4 +1,4 @@
-# Journal for hadron theory
+# Journals for hadron theory
 
 
 ## Review Journal
