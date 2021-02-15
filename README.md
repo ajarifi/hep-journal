@@ -12,3 +12,10 @@ Elsevier
 3. Physics Letters B
 4. Nuclear Physics A 
 5. Nuclear Physics B 
+
+Springer
+1. Journal of High Energy Physics
+2. The European Physical Journal A
+3. The European Physical Journal C
+4. Few-Body Systems
+
