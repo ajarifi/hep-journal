@@ -1,6 +1,6 @@
 # Journals for hadron theory
 
-Sometimes, it is not easy to decide in which journal we need to submit our manuscript.
+Sometimes, it is not easy to decide to which journal we need to submit our manuscript.
 So, we want to make some lists about the relevant journals for your reference. Hopefully it will be useful for you.
 
 ## Review
