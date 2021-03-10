@@ -15,9 +15,10 @@ So, we want to make some lists about the relevant journals for your reference. H
 
 
 ## Letter
-1. Physical Review Letter
-2. Physics Letter B
-3. Chinese Physics Letters
+1. [Physical Review Letter](https://journals.aps.org/prl/)\
+(Q1, IF=8.3) American physical society (APS), USA
+3. Physics Letter B
+4. Chinese Physics Letters
 
 ## Regular Article
 1. Physical Review C
