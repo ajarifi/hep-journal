@@ -71,3 +71,5 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q3, IF=0.8) Springer, Germany
 13. [Acta Physica Pol B](http://www.actaphys.uj.edu.pl)\
 (Q3, IF=0.8) Jeggelonian U, Poland
+14. [Particles](https://www.mdpi.com/journal/particles)\
+MDPI, Switzerland
