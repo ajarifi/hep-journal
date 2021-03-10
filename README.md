@@ -4,8 +4,8 @@ Sometimes, it is not easy to decide to which journal we need to submit our manus
 So, we want to make some lists about the relevant journals for your reference. Hopefully it will be useful for you.
 
 ## Review
-1. Review of Modern Physics
-   (Q1)
+1. [Review of Modern Physics](https://journals.aps.org/rmp/)\
+[Q1, IF=45.0]
 2. Progress in Particle and Nuclear Physics
 3. Journal of Physics G
 4. Physics Reports
