@@ -20,7 +20,7 @@ So, we want to make some lists about the relevant journals for your reference. H
 2. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b)\
 (Q1, IF=4.4) Elsevier, Netherland 
 3. [Chinese Physics Letters]()\
-(Q1, IF=1.1) Institute of Physics (IOP), U.K.
+(Q1, IF=1.1) Chinese Physical Society(CPS), hosted by IOP, U.K.
 
 ## News/Commentary
 1. [Science Magazine](https://science.sciencemag.org)\
