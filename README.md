@@ -3,10 +3,6 @@
 Sometimes, it is not easy to decide to which journal we need to submit our manuscript.
 So, we want to make some lists about the relevant journals for your reference. Hopefully it will be useful for you.
 
-## News
-1. [Science Magazine](https://science.sciencemag.org)\
-(Q1, IF=45.8) American Association for Advancement of Science, USA
-
 ## Review
 1. [Review of Modern Physics](https://journals.aps.org/rmp/)\
 (Q1, IF=45.0) American physical society (APS), USA
@@ -25,6 +21,10 @@ So, we want to make some lists about the relevant journals for your reference. H
 
 
 ## Letter
+1. [Science Magazine](https://science.sciencemag.org)\
+(Q1, IF=45.8) American Association for Advancement of Science, USA
+2. [Science Bulletin](https://www.journals.elsevier.com/science-bulletin)\
+(Q1, IF=9.5) Chinese Academy of Science (CAS), hosted by Elsevier, Netherland
 1. [Physical Review Letter](https://journals.aps.org/prl/)\
 (Q1, IF=8.3) American physical society (APS), USA
 2. [Physical Review D Letter](https://journals.aps.org/prd/)\
