@@ -5,8 +5,9 @@ So, we want to make some lists about the relevant journals for your reference. H
 
 ## Review
 1. [Review of Modern Physics](https://journals.aps.org/rmp/)\
-[Q1, IF=45.0]
-2. Progress in Particle and Nuclear Physics
+(Q1, IF=45.0) American physical society (APS), USA
+2. [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics)\
+(Q1, IF=13.4) Elsevier, Netherland
 3. Journal of Physics G
 4. Physics Reports
 
