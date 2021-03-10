@@ -3,7 +3,7 @@
 Sometimes, it is not easy to decide to which journal we need to submit our manuscript.
 So, we want to make some lists about the relevant journals for your reference. Hopefully it will be useful for you.
 
-## News/Commentary
+## News
 1. [Science Magazine](https://science.sciencemag.org)\
 (Q1, IF=45.8) American Association for Advancement of Science, USA
 
