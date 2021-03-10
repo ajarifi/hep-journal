@@ -27,12 +27,14 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=4.4) Elsevier, Netherland 
 4. [Physical Review C Letter]()\
 (Q1, IF=3.0) American physical society (APS), USA
-5. [Chinese Physics Letters]()\
+5. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X)\
 (Q3, IF=1.1) Chinese Physical Society (CPS), hosted by IOP, U.K.
 
 ## Regular Article
-1. Physical Review C
-2. Physical Review D
+1. [Physical Review D](https://journals.aps.org/prd/)\
+(Q1, IF=4.8) American physical society (APS), USA
+2. [Physical Review C](https://journals.aps.org/prc/)\
+(Q1, IF=3.0) American physical society (APS), USA
 3. Nuclear Physics A 
 4. Nuclear Physics B 
 5. Journal of High Energy Physics
