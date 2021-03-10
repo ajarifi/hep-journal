@@ -65,9 +65,9 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q2, IF=2.1) Japanese Physical Society (JPS), hosted by Oxford U. press, U.K.
 10. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)\
 (Q2, IF=1.7) Elsevier, Netherland 
-11. International Journal of Modern Physics A
+11. [International Journal of Modern Physics A](https://www.worldscientific.com/worldscinet/ijmpa)\
 (Q2, IF=1.5) World Scientific, Singapore
 12. [Few-Body Systems](https://www.springer.com/journal/601)\
 (Q3, IF=0.8) Springer, Germany
 13. [Acta Physica Pol B](http://www.actaphys.uj.edu.pl)\
-(Q3, IF=0.6) Jeggelonian U, Poland
+(Q3, IF=0.8) Jeggelonian U, Poland
