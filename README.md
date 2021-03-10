@@ -41,11 +41,13 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q2, IF=1.7) Elsevier, Netherland 
 7. [Journal of High Energy Physics](https://www.springer.com/journal/13130)\
 (Q2, IF=5.8) Springer, Germany
-9. The European Physical Journal A
-10. The European Physical Journal C
-11. Few-Body Systems
-12. Chinese Physics C
-13. Progress of Theoretical and Experimental Physics
-14. International Journal of Modern Physics A
-15. Acta Physica Pol B
-16. Symmetry
+9. [The European Physical Journal A](https://www.springer.com/journal/10050/)\
+(Q1, IF=2.2) Springer, Germany
+11. [The European Physical Journal C](https://www.springer.com/journal/10052)\
+(Q1, IF=4.3) Springer, Germany
+13. Few-Body Systems
+14. Chinese Physics C
+15. Progress of Theoretical and Experimental Physics
+16. International Journal of Modern Physics A
+17. Acta Physica Pol B
+18. Symmetry
