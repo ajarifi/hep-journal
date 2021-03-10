@@ -46,7 +46,7 @@ So, we want to make some lists about the relevant journals for your reference. H
 
 ## Regular Article
 1. [Journal of High Energy Physics](https://www.springer.com/journal/13130)\
-(Q1, IF=5.8) Springer, Germany
+(Q2, IF=5.8) Springer, Germany
 2. [Physical Review D](https://journals.aps.org/prd/)\
 (Q1, IF=4.8) American physical society (APS), USA
 3. [The European Physical Journal C](https://www.springer.com/journal/10052)\
