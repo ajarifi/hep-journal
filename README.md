@@ -17,9 +17,10 @@ So, we want to make some lists about the relevant journals for your reference. H
 ## Letter
 1. [Physical Review Letter](https://journals.aps.org/prl/)\
 (Q1, IF=8.3) American physical society (APS), USA
-3. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b)\
+2. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b)\
 (Q1, IF=4.4) Elsevier, Netherland 
-5. Chinese Physics Letters
+3. [Chinese Physics Letters]()\
+(Q1, IF=1.1) Institute of Physics (IOP), U.K.
 
 ## News/Commentary
 1. [Science Magazine](https://science.sciencemag.org)\
