@@ -56,7 +56,7 @@ So, we want to make some lists about the relevant journals for your reference. H
 5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b)\
 (Q1, IF=2.8) Elsevier, Netherland
 6. [Symmetry](https://www.mdpi.com/journal/symmetry)\
-(Q2, IF=2.6) MDPI, Switzerland 
+(Q3, IF=2.6) MDPI, Switzerland 
 7. [Chinese Physics C](https://iopscience.iop.org/journal/1674-1137)\
 (Q1, IF=2.5) Chinese Physical Society (CPS), hosted by IOP, U.K.
 8. [The European Physical Journal A](https://www.springer.com/journal/10050/)\
