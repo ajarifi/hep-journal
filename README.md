@@ -16,9 +16,11 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=13.4) Elsevier, Netherland
 4. [The European Physical Journal C Review](https://www.springer.com/journal/10052)\
 (Q1, IF=4.3) Springer, Germany
-5. [Journal of Physics G - Review](https://iopscience.iop.org/journal/0954-3899)\
+5. [Chinese Physics C Review](https://iopscience.iop.org/journal/1674-1137)\
+(Q1, IF=2.5) Chinese Physical Society (CPS), hosted by IOP, U.K.
+6. [Journal of Physics G - Review](https://iopscience.iop.org/journal/0954-3899)\
 (Q1, IF=2.4) Institute of Physics (IOP), U.K.
-6. [The European Physical Journal A Review](https://www.springer.com/journal/10050/)\
+7. [The European Physical Journal A Review](https://www.springer.com/journal/10050/)\
 (Q1, IF=2.2) Springer, Germany
 
 
@@ -33,9 +35,11 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=4.3) Springer, Germany
 5. [Physical Review C Letter]()\
 (Q1, IF=3.0) American physical society (APS), USA
-6. [The European Physical Journal A Letter](https://www.springer.com/journal/10050/)\
+6. [Chinese Physics C Letter](https://iopscience.iop.org/journal/1674-1137)\
+(Q1, IF=2.5) Chinese Physical Society (CPS), hosted by IOP, U.K.
+7. [The European Physical Journal A Letter](https://www.springer.com/journal/10050/)\
 (Q1, IF=2.2) Springer, Germany
-7. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X)\
+8. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X)\
 (Q3, IF=1.1) Chinese Physical Society (CPS), hosted by IOP, U.K.
 
 
@@ -50,14 +54,20 @@ So, we want to make some lists about the relevant journals for your reference. H
 4. [Physical Review C](https://journals.aps.org/prc/)\
 (Q1, IF=3.0) American physical society (APS), USA
 5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b)\
-(Q1, IF=2.8) Elsevier, Netherland 
-6. [The European Physical Journal A](https://www.springer.com/journal/10050/)\
+(Q1, IF=2.8) Elsevier, Netherland
+6. [Symmetry](https://www.mdpi.com/journal/symmetry)\
+(Q2, IF=2.6) MDPI, Switzerland 
+7. [Chinese Physics C](https://iopscience.iop.org/journal/1674-1137)\
+(Q1, IF=2.5) Chinese Physical Society (CPS), hosted by IOP, U.K.
+8. [The European Physical Journal A](https://www.springer.com/journal/10050/)\
 (Q1, IF=2.2) Springer, Germany
-7. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)\
+9. [Progress of Theoretical and Experimental Physics]()\
+(Q2, IF=2.1) Japanese Physical Society (JPS), hosted by Oxford U. press, U.K.
+10. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)\
 (Q2, IF=1.7) Elsevier, Netherland 
-13. Few-Body Systems
-14. Chinese Physics C
-15. Progress of Theoretical and Experimental Physics
-16. International Journal of Modern Physics A
-17. Acta Physica Pol B
-18. Symmetry
+11. International Journal of Modern Physics A
+(Q2, IF=1.5) World Scientific, Singapore
+12. [Few-Body Systems](https://www.springer.com/journal/601)\
+(Q3, IF=0.8) Springer, Germany
+13. [Acta Physica Pol B](http://www.actaphys.uj.edu.pl)\
+(Q3, IF=0.6) Jeggelonian U, Poland
