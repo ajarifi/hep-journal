@@ -20,6 +20,10 @@ So, we want to make some lists about the relevant journals for your reference. H
 3. Physics Letter B
 4. Chinese Physics Letters
 
+## News/Commentary
+1. [Science Magazine](https://science.sciencemag.org)\
+(Q1, IF=45.8) American Association for Advancement of Science, USA
+
 ## Regular Article
 1. Physical Review C
 2. Physical Review D
@@ -28,10 +32,9 @@ So, we want to make some lists about the relevant journals for your reference. H
 5. Journal of High Energy Physics
 6. The European Physical Journal A
 7. The European Physical Journal C
-8. Science
+8. Few-Body Systems
 9. Chinese Physics C
 10. Progress of Theoretical and Experimental Physics
 11. International Journal of Modern Physics A
 12. Acta Physica Pol B
 13. Symmetry
-14. Few-Body Systems
