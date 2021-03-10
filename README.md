@@ -29,14 +29,16 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=4.8) American physical society (APS), USA
 3. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b)\
 (Q1, IF=4.4) Elsevier, Netherland 
-4. [Physical Review C Letter]()\
+4. [The European Physical Journal C Letter](https://www.springer.com/journal/10052)\
+(Q1, IF=4.3) Springer, Germany
+5. [Physical Review C Letter]()\
 (Q1, IF=3.0) American physical society (APS), USA
-5. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X)\
-(Q3, IF=1.1) Chinese Physical Society (CPS), hosted by IOP, U.K.
 6. [The European Physical Journal A Letter](https://www.springer.com/journal/10050/)\
 (Q1, IF=2.2) Springer, Germany
-7. [The European Physical Journal C Letter](https://www.springer.com/journal/10052)\
-(Q1, IF=4.3) Springer, Germany
+7. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X)\
+(Q3, IF=1.1) Chinese Physical Society (CPS), hosted by IOP, U.K.
+
+
 
 ## Regular Article
 1. [Physical Review D](https://journals.aps.org/prd/)\
