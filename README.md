@@ -25,7 +25,9 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=4.8) American physical society (APS), USA
 3. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b)\
 (Q1, IF=4.4) Elsevier, Netherland 
-4. [Chinese Physics Letters]()\
+4. [Physical Review C Letter]()\
+(Q1, IF=3.0) American physical society (APS), USA
+5. [Chinese Physics Letters]()\
 (Q3, IF=1.1) Chinese Physical Society (CPS), hosted by IOP, U.K.
 
 ## Regular Article
