@@ -23,7 +23,9 @@ So, we want to make some lists about the relevant journals for your reference. H
 ## Letter
 1. [Science Magazine](https://science.sciencemag.org)\
 (Q1, IF=45.8) American Association for Advancement of Science, USA
-2. [Nature Physics](https://www.nature.com/nphys/about)\
+2. [Nature](https://www.nature.com)\
+(Q1, IF=42.7) Nature, U.K.
+4. [Nature Physics](https://www.nature.com/nphys/about)\
 (Q1, IF=20.1) Nature, U.K.
 4. [Science Bulletin](https://www.journals.elsevier.com/science-bulletin)\
 (Q1, IF=9.5) Chinese Academy of Science (CAS), hosted by Elsevier, Netherland
