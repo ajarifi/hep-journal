@@ -14,12 +14,12 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=25.8) Elsevier, Netherland
 3. [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics)\
 (Q1, IF=13.4) Elsevier, Netherland
-4. [Journal of Physics G - Review](https://iopscience.iop.org/journal/0954-3899)\
-(Q1, IF=2.4) Institute of Physics (IOP), U.K.
-5. [The European Physical Journal A Review](https://www.springer.com/journal/10050/)\
-(Q1, IF=2.2) Springer, Germany
-6. [The European Physical Journal C Review](https://www.springer.com/journal/10052)\
+4. [The European Physical Journal C Review](https://www.springer.com/journal/10052)\
 (Q1, IF=4.3) Springer, Germany
+5. [Journal of Physics G - Review](https://iopscience.iop.org/journal/0954-3899)\
+(Q1, IF=2.4) Institute of Physics (IOP), U.K.
+6. [The European Physical Journal A Review](https://www.springer.com/journal/10050/)\
+(Q1, IF=2.2) Springer, Germany
 
 
 ## Letter
