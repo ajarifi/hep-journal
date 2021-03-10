@@ -41,20 +41,20 @@ So, we want to make some lists about the relevant journals for your reference. H
 
 
 ## Regular Article
-1. [Physical Review D](https://journals.aps.org/prd/)\
+1. [Journal of High Energy Physics](https://www.springer.com/journal/13130)\
+(Q2, IF=5.8) Springer, Germany
+2. [Physical Review D](https://journals.aps.org/prd/)\
 (Q1, IF=4.8) American physical society (APS), USA
-2. [Physical Review C](https://journals.aps.org/prc/)\
+3. [The European Physical Journal C](https://www.springer.com/journal/10052)\
+(Q1, IF=4.3) Springer, Germany
+4. [Physical Review C](https://journals.aps.org/prc/)\
 (Q1, IF=3.0) American physical society (APS), USA
 5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b)\
 (Q1, IF=2.8) Elsevier, Netherland 
-3. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)\
-(Q2, IF=1.7) Elsevier, Netherland 
-7. [Journal of High Energy Physics](https://www.springer.com/journal/13130)\
-(Q2, IF=5.8) Springer, Germany
-9. [The European Physical Journal A](https://www.springer.com/journal/10050/)\
+6. [The European Physical Journal A](https://www.springer.com/journal/10050/)\
 (Q1, IF=2.2) Springer, Germany
-11. [The European Physical Journal C](https://www.springer.com/journal/10052)\
-(Q1, IF=4.3) Springer, Germany
+7. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)\
+(Q2, IF=1.7) Elsevier, Netherland 
 13. Few-Body Systems
 14. Chinese Physics C
 15. Progress of Theoretical and Experimental Physics
