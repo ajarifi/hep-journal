@@ -8,8 +8,10 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=45.0) American physical society (APS), USA
 2. [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics)\
 (Q1, IF=13.4) Elsevier, Netherland
-3. Journal of Physics G
-4. Physics Reports
+3. [Journal of Physics G](https://iopscience.iop.org/journal/0954-3899)\
+(Q1, IF=2.4) Institute of Physics (IOP), U.K.
+5. [Physics Reports](https://www.journals.elsevier.com/physics-reports)\
+(Q1, IF=25.8) Elsevier, Netherland
 
 ## Letter
 1. Physical Review Letter
