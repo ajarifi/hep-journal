@@ -35,16 +35,17 @@ So, we want to make some lists about the relevant journals for your reference. H
 (Q1, IF=4.8) American physical society (APS), USA
 2. [Physical Review C](https://journals.aps.org/prc/)\
 (Q1, IF=3.0) American physical society (APS), USA
+5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b)\
+(Q1, IF=2.8) Elsevier, Netherland 
 3. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a)\
 (Q2, IF=1.7) Elsevier, Netherland 
-5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b)\
-(Q2, IF=2.8) Elsevier, Netherland 
-7. Journal of High Energy Physics
-8. The European Physical Journal A
-9. The European Physical Journal C
-10. Few-Body Systems
-11. Chinese Physics C
-12. Progress of Theoretical and Experimental Physics
-13. International Journal of Modern Physics A
-14. Acta Physica Pol B
-15. Symmetry
+7. [Journal of High Energy Physics](https://www.springer.com/journal/13130)\
+(Q2, IF=5.8) Springer, Germany
+9. The European Physical Journal A
+10. The European Physical Journal C
+11. Few-Body Systems
+12. Chinese Physics C
+13. Progress of Theoretical and Experimental Physics
+14. International Journal of Modern Physics A
+15. Acta Physica Pol B
+16. Symmetry
