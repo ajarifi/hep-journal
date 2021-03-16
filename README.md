@@ -79,3 +79,5 @@ Here we clasify the journal based on their type of articles.
 (Q3, IF=0.8) Jeggelonian U, Poland
 14. [Particles](https://www.mdpi.com/journal/particles)\
 MDPI, Switzerland
+15. [Communications in theoretical physics]()\
+[Q3, IF=1.3] IOP, U.K.
