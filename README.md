@@ -80,4 +80,4 @@ Here we clasify the journal based on their type of articles.
 14. [Particles](https://www.mdpi.com/journal/particles)\
 MDPI, Switzerland
 15. [Communications in theoretical physics](https://iopscience.iop.org/journal/0253-6102)\
-[Q3, IF=1.3] IOP, U.K.
+(Q3, IF=1.3) IOP, U.K.
