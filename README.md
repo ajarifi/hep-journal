@@ -59,7 +59,7 @@ Here we clasify the journal based on their type of articles.
 ## Article Type
 Here we clasify the journal based on their type of articles.
 
-### Review
+### A. Review
 1. [Review of Modern Physics](https://journals.aps.org/rmp/)\
 (Q1, IF=45.0) American physical society (APS), USA
 2. [Physics Reports](https://www.journals.elsevier.com/physics-reports)\
@@ -76,7 +76,7 @@ Here we clasify the journal based on their type of articles.
 (Q1, IF=2.2) Springer, Germany
 
 
-### Letter
+### B. Letter
 1. [Science Magazine](https://science.sciencemag.org)\
 (Q1, IF=45.8) American Association for Advancement of Science, USA
 2. [Nature](https://www.nature.com)\
@@ -102,7 +102,7 @@ Here we clasify the journal based on their type of articles.
 8. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X)\
 (Q3, IF=1.1) Chinese Physical Society (CPS), hosted by IOP, U.K.
 
-### Regular Article
+### C. Regular Article
 1. [Journal of High Energy Physics](https://www.springer.com/journal/13130)\
 (Q2, IF=5.8) Springer, Germany
 2. [Physical Review D](https://journals.aps.org/prd/)\
