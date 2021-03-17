@@ -21,9 +21,9 @@ Here we clasify the journal based on their type of articles.
 6. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a) (Q2, IF=1.7)
 
 ### Springer, Germany
-1. [The European Physical Journal C](https://www.springer.com/journal/10052) (Q1, IF=4.3) 
-2. [The European Physical Journal A](https://www.springer.com/journal/10050/) (Q1, IF=2.2)
-3. [Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)
+1. [Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)
+2. [The European Physical Journal C](https://www.springer.com/journal/10052) (Q1, IF=4.3) 
+3. [The European Physical Journal A](https://www.springer.com/journal/10050/) (Q1, IF=2.2)
 4. [Few-Body Systems](https://www.springer.com/journal/601) (Q3, IF=0.8)
 
 ### Institute Of Physics, U.K.
