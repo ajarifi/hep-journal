@@ -39,20 +39,20 @@ Here we clasify the journal based on their type of articles.
 1. [Nature](https://www.nature.com)(Q1, IF=42.7) 
 2. [Nature Physics](https://www.nature.com/nphys/about) (Q1, IF=20.1)
 
-## MDPI, Switzerland 
+### MDPI, Switzerland 
 1. [Symmetry](https://www.mdpi.com/journal/symmetry) (Q3, IF=2.6)
 2. [Particles](https://www.mdpi.com/journal/particles)
 
-## Oxford U. press, U.K.
+### Oxford U. press, U.K.
 1. [Progress of Theoretical and Experimental Physics](https://academic.oup.com/ptep) (Q2, IF=2.1) 
 
-## World Scientific, Singapore
+### World Scientific, Singapore
 1. [International Journal of Modern Physics A](https://www.worldscientific.com/worldscinet/ijmpa) (Q2, IF=1.5)
 
-## Jeggelonian U, Poland
+### Jeggelonian U, Poland
 1. [Acta Physica Pol B](http://www.actaphys.uj.edu.pl) (Q3, IF=0.8) 
 
-## Hindawi, USA
+### Hindawi, USA
 1. [Advances in High Energy Physics](https://www.hindawi.com/journals/ahep/) (Q2, IF=1.4) 
 
 
