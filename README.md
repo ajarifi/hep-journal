@@ -19,6 +19,7 @@ Here we clasify the journal based on their type of articles.
 4. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b) (Q1, IF=4.4)
 5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b) (Q1, IF=2.8)
 6. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a) (Q2, IF=1.7)
+7. [Annals of Physics](https://www.journals.elsevier.com/annals-of-physics) (Q2, 2.1)
 
 ### C. Springer, Germany
 1. [Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)
