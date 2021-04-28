@@ -23,38 +23,38 @@ Here we clasify the journal based on their type of articles.
 
 ### Springer, Germany
 [Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)\
-[The European Physical Journal C](https://www.springer.com/journal/10052) (Q1, IF=4.3)\ 
+[The European Physical Journal C](https://www.springer.com/journal/10052) (Q1, IF=4.3)\
 [The European Physical Journal A](https://www.springer.com/journal/10050/) (Q1, IF=2.2)\
 [Few-Body Systems](https://www.springer.com/journal/601) (Q3, IF=0.8)
 
 ### Institute Of Physics, U.K.
-1. [Chinese Physics C](https://iopscience.iop.org/journal/1674-1137) (Q1, IF=2.5) 
-2. [Journal of Physics G](https://iopscience.iop.org/journal/0954-3899) (Q1, IF=2.4)
-3. [Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X) (Q3, IF=1.1)
-4. [Communications in theoretical physics](https://iopscience.iop.org/journal/0253-6102) (Q3, IF=1.3)
+[Chinese Physics C](https://iopscience.iop.org/journal/1674-1137) (Q1, IF=2.5)\
+[Journal of Physics G](https://iopscience.iop.org/journal/0954-3899) (Q1, IF=2.4)\
+[Chinese Physics Letters](https://iopscience.iop.org/journal/0256-307X) (Q3, IF=1.1)\
+[Communications in theoretical physics](https://iopscience.iop.org/journal/0253-6102) (Q3, IF=1.3)
 
 ### American Association for Advancement of Science, USA
-1. [Science Magazine](https://science.sciencemag.org) (Q1, IF=45.8) 
+[Science Magazine](https://science.sciencemag.org) (Q1, IF=45.8) 
 
 ### Nature, U.K.
-1. [Nature](https://www.nature.com)(Q1, IF=42.7) 
-2. [Nature Physics](https://www.nature.com/nphys/about) (Q1, IF=20.1)
+[Nature](https://www.nature.com)(Q1, IF=42.7)\
+[Nature Physics](https://www.nature.com/nphys/about) (Q1, IF=20.1)
 
 ### MDPI, Switzerland 
-1. [Symmetry](https://www.mdpi.com/journal/symmetry) (Q3, IF=2.6)
-2. [Particles](https://www.mdpi.com/journal/particles)
+[Symmetry](https://www.mdpi.com/journal/symmetry) (Q3, IF=2.6)\
+[Particles](https://www.mdpi.com/journal/particles)
 
 ### Oxford U. press, U.K.
-1. [Progress of Theoretical and Experimental Physics](https://academic.oup.com/ptep) (Q2, IF=2.1) 
+[Progress of Theoretical and Experimental Physics](https://academic.oup.com/ptep) (Q2, IF=2.1) 
 
 ### World Scientific, Singapore
-1. [International Journal of Modern Physics A](https://www.worldscientific.com/worldscinet/ijmpa) (Q2, IF=1.5)
+[International Journal of Modern Physics A](https://www.worldscientific.com/worldscinet/ijmpa) (Q2, IF=1.5)
 
 ### Jeggelonian U, Poland
-1. [Acta Physica Pol B](http://www.actaphys.uj.edu.pl) (Q3, IF=0.8) 
+[Acta Physica Pol B](http://www.actaphys.uj.edu.pl) (Q3, IF=0.8) 
 
 ### Hindawi, USA
-1. [Advances in High Energy Physics](https://www.hindawi.com/journals/ahep/) (Q2, IF=1.4) 
+[Advances in High Energy Physics](https://www.hindawi.com/journals/ahep/) (Q2, IF=1.4) 
 
 
 ## Article Type
