@@ -7,10 +7,10 @@ So, we want to make some lists about the relevant journals for your reference. H
 Here we clasify the journal based on their type of articles.
 
 ### American physical society (APS), USA
-1. [Review of Modern Physics](https://journals.aps.org/rmp/) (Q1, IF=45.0)
-2. [Physical Review Letter](https://journals.aps.org/prl/) (Q1, IF=8.3)
-3. [Physical Review D](https://journals.aps.org/prd/) (Q1, IF=4.8)
-4. [Physical Review C](https://journals.aps.org/prc/) (Q1, IF=3.0)
+[Review of Modern Physics](https://journals.aps.org/rmp/) (Q1, IF=45.0)
+[Physical Review Letter](https://journals.aps.org/prl/) (Q1, IF=8.3)
+[Physical Review D](https://journals.aps.org/prd/) (Q1, IF=4.8)
+[Physical Review C](https://journals.aps.org/prc/) (Q1, IF=3.0)
 
 ### Elsevier, Netherland
 1. [Physics Reports](https://www.journals.elsevier.com/physics-reports) (Q1, IF=25.8) 
