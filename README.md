@@ -10,16 +10,16 @@ Here we clasify the journal based on their type of articles.
 [Review of Modern Physics](https://journals.aps.org/rmp/) (Q1, IF=45.0)\
 [Physical Review Letter](https://journals.aps.org/prl/) (Q1, IF=8.3)\
 [Physical Review D](https://journals.aps.org/prd/) (Q1, IF=4.8)\
-[Physical Review C](https://journals.aps.org/prc/) (Q1, IF=3.0)\
+[Physical Review C](https://journals.aps.org/prc/) (Q1, IF=3.0)
 
 ### Elsevier, Netherland
-1. [Physics Reports](https://www.journals.elsevier.com/physics-reports) (Q1, IF=25.8) 
-2. [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics) (Q1, IF=13.4)
-3. [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (Q1, IF=9.5)
-4. [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b) (Q1, IF=4.4)
-5. [Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b) (Q1, IF=2.8)
-6. [Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a) (Q2, IF=1.7)
-7. [Annals of Physics](https://www.journals.elsevier.com/annals-of-physics) (Q2, 2.1)
+[Physics Reports](https://www.journals.elsevier.com/physics-reports) (Q1, IF=25.8)\ 
+[Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics) (Q1, IF=13.4)\
+[Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (Q1, IF=9.5)\
+[Physics Letter B](https://www.journals.elsevier.com/physics-letters-b) (Q1, IF=4.4)\
+[Nuclear Physics B](https://www.sciencedirect.com/journal/nuclear-physics-b) (Q1, IF=2.8)\
+[Nuclear Physics A](https://www.sciencedirect.com/journal/nuclear-physics-a) (Q2, IF=1.7)\
+[Annals of Physics](https://www.journals.elsevier.com/annals-of-physics) (Q2, 2.1)
 
 ### Springer, Germany
 1. [Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)
