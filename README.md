@@ -13,7 +13,7 @@ Here we clasify the journal based on their type of articles.
 [Physical Review C](https://journals.aps.org/prc/) (Q1, IF=3.0)
 
 ### Elsevier, Netherland
-[Physics Reports](https://www.journals.elsevier.com/physics-reports) (Q1, IF=25.8)\ 
+[Physics Reports](https://www.journals.elsevier.com/physics-reports) (Q1, IF=25.8)\
 [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics) (Q1, IF=13.4)\
 [Science Bulletin](https://www.journals.elsevier.com/science-bulletin) (Q1, IF=9.5)\
 [Physics Letter B](https://www.journals.elsevier.com/physics-letters-b) (Q1, IF=4.4)\
@@ -22,10 +22,10 @@ Here we clasify the journal based on their type of articles.
 [Annals of Physics](https://www.journals.elsevier.com/annals-of-physics) (Q2, 2.1)
 
 ### Springer, Germany
-1. [Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)
-2. [The European Physical Journal C](https://www.springer.com/journal/10052) (Q1, IF=4.3) 
-3. [The European Physical Journal A](https://www.springer.com/journal/10050/) (Q1, IF=2.2)
-4. [Few-Body Systems](https://www.springer.com/journal/601) (Q3, IF=0.8)
+[Journal of High Energy Physics](https://www.springer.com/journal/13130) (Q2, IF=5.8)\
+[The European Physical Journal C](https://www.springer.com/journal/10052) (Q1, IF=4.3)\ 
+[The European Physical Journal A](https://www.springer.com/journal/10050/) (Q1, IF=2.2)\
+[Few-Body Systems](https://www.springer.com/journal/601) (Q3, IF=0.8)
 
 ### Institute Of Physics, U.K.
 1. [Chinese Physics C](https://iopscience.iop.org/journal/1674-1137) (Q1, IF=2.5) 
